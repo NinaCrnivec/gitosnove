@@ -1,3 +1,5 @@
+#Author: Nina Crnivec (nina.crnivec@gov.si)
+
 import epygram
 import matplotlib.pyplot as plt
 import numpy as np
